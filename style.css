@@ -1521,6 +1521,6 @@ footer {
   .footer__copyright {
     font-size: 14px;
     text-align: center;
-    line-height: 1.5
+    line-height: 1.5;
   }
 }
